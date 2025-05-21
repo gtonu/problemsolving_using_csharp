@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Beautiful Matrix", "A. B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Dinner Time", "A. Dinner Time\A. Dinner Time.csproj", "{E3451CE3-EEC2-451B-BAEE-FDD39676BDAD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. LRC and VIP", "A. LRC and VIP\A. LRC and VIP.csproj", "{B9365589-4979-4088-A2AD-165CFEB3F6BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{E3451CE3-EEC2-451B-BAEE-FDD39676BDAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3451CE3-EEC2-451B-BAEE-FDD39676BDAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3451CE3-EEC2-451B-BAEE-FDD39676BDAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9365589-4979-4088-A2AD-165CFEB3F6BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9365589-4979-4088-A2AD-165CFEB3F6BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9365589-4979-4088-A2AD-165CFEB3F6BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9365589-4979-4088-A2AD-165CFEB3F6BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
