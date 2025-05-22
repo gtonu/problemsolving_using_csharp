@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Dinner Time", "A. Dinner
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. LRC and VIP", "A. LRC and VIP\A. LRC and VIP.csproj", "{B9365589-4979-4088-A2AD-165CFEB3F6BA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Permutation Warm-Up", "A. Permutation Warm-Up\A. Permutation Warm-Up.csproj", "{38363BEB-6841-48D7-9184-EDA8F946BAE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Three Decks", "A. Three Decks\A. Three Decks.csproj", "{88A26036-E5F1-4610-9B60-46254E97B878}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{B9365589-4979-4088-A2AD-165CFEB3F6BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9365589-4979-4088-A2AD-165CFEB3F6BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9365589-4979-4088-A2AD-165CFEB3F6BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38363BEB-6841-48D7-9184-EDA8F946BAE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38363BEB-6841-48D7-9184-EDA8F946BAE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38363BEB-6841-48D7-9184-EDA8F946BAE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38363BEB-6841-48D7-9184-EDA8F946BAE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88A26036-E5F1-4610-9B60-46254E97B878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88A26036-E5F1-4610-9B60-46254E97B878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88A26036-E5F1-4610-9B60-46254E97B878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88A26036-E5F1-4610-9B60-46254E97B878}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
