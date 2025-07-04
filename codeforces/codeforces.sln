@@ -75,6 +75,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. George and Accommodation
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Magnets", "A. Magnets\A. Magnets.csproj", "{66827625-4125-4027-BFEF-E9D52B987DC8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Calculating Function", "A. Calculating Function\A. Calculating Function.csproj", "{9C3DA64F-548D-4038-AB36-A49A564F9A96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B. Drinks", "B. Drinks\B. Drinks.csproj", "{D2FE9403-68CA-4BFE-96E2-01DB7A22304E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -225,6 +229,14 @@ Global
 		{66827625-4125-4027-BFEF-E9D52B987DC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66827625-4125-4027-BFEF-E9D52B987DC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66827625-4125-4027-BFEF-E9D52B987DC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C3DA64F-548D-4038-AB36-A49A564F9A96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C3DA64F-548D-4038-AB36-A49A564F9A96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C3DA64F-548D-4038-AB36-A49A564F9A96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C3DA64F-548D-4038-AB36-A49A564F9A96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2FE9403-68CA-4BFE-96E2-01DB7A22304E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2FE9403-68CA-4BFE-96E2-01DB7A22304E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2FE9403-68CA-4BFE-96E2-01DB7A22304E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2FE9403-68CA-4BFE-96E2-01DB7A22304E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
